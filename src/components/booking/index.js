@@ -70,25 +70,22 @@ const Booking = () => {
   return (
     <Wrapper id="book-now">
       <Header>
-        <Title>Book Your Cruise</Title>
+        <Title>Book Your Appointment</Title>
         <Disclaimer>
-          A 50% non refundable deposit is required upon scheduling If the cruise
-          has to be canceled due to unfriendly weather conditions You can either
-          reschedule or you’ll be credited the deposit towards a future cruise
-          whenever you decide to use it!
+        Lorum ipsem condo re vondo me ashmond Lorum ipsem condo re vondo me ashmond
+        Lorum ipsem condo re vondo me ashmond Lorum ipsem condo re vondo me ashmond
+        Lorum ipsem condo re vondo me ashmond
         </Disclaimer>
         <Row>
           <Col>
-            <Pricing style={{ fontWeight: "bold" }}>5 hour</Pricing>
-            Monday and Tuesday $300, Wednesday and Thursday $400, Friday and
-            Saturday $500, Sunday $600.
+            <Pricing style={{ fontWeight: "bold" }}>Pricing</Pricing>
+            Lorum ipsem condo re vondo me ashmond Lorum ipsem condo re vondo me ashmond
           </Col>
           <Col>
             <Pricing style={{ fontWeight: "bold" }}>
-              Whole day - 11am / 10pm
+              pricing 2
             </Pricing>
-            Monday and Tuesday $500, Wednesday and Thursday $700, Friday and
-            Saturday $900, Sunday $1,100.
+            Lorum ipsem condo re vondo me ashmond Lorum ipsem condo re vondo me ashmond
           </Col>
         </Row>
       </Header>

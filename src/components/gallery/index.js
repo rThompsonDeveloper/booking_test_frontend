@@ -25,8 +25,8 @@ const Gallery = () => {
     <Wrapper id="gallery">
       <Title>Gallery</Title>
       <Subtitle>
-        Capturing moments you'll want to relive. Upgrade your cruise with
-        professional photos and videos of your epic night!
+      Lorum ipsem condo re vondo me ashmond Lorum ipsem condo re vondo me ashmond
+      Lorum ipsem condo re vondo me ashmond Lorum ipsem condo re vondo me ashmond
       </Subtitle>
       <Row>
         {images.loading ? (

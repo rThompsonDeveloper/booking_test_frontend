@@ -30,7 +30,7 @@ const Testimonials = () => {
 
   return (
     <Wrapper id="testimonials">
-      <Title>Happy Customers</Title>
+      <Title>Testimonials</Title>
       <Row>
         {reviews.reviews.map(
           (review, i) =>

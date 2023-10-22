@@ -16,10 +16,9 @@ const Extras = () => {
           src={smoking}
           alt="Smoking at personal private adventure cruise llc"
         />
-        <Title>Smoking</Title>
+        <Title>Perk 1</Title>
         <Text>
-          Smoking / Vaping is allowed, Medical marijuanna is allowed with the
-          producing of a medical liscence.
+        Lorum ipsem condo re vondo me ashmond Lorum ipsem condo re vondo me ashmond Lorum ipsem condo re vondo me ashmond Lorum ipsem condo re vondo me ashmond
         </Text>
       </Col>
       <Col>
@@ -27,10 +26,9 @@ const Extras = () => {
           src={food}
           alt="Eating at personal private adventure cruise llc"
         />
-        <Title>Food</Title>
+        <Title>Perk 2</Title>
         <Text>
-          You can bring your own food! Fresh grilled Smiths hotdogs, pickle
-          spears and your choice of munchies will be provided!
+        Lorum ipsem condo re vondo me ashmond Lorum ipsem condo re vondo me ashmond Lorum ipsem condo re vondo me ashmond Lorum ipsem condo re vondo me ashmond
         </Text>
       </Col>
       <Col>
@@ -38,10 +36,9 @@ const Extras = () => {
           src={ammenities}
           alt="Ammenities at personal private adventure cruise llc"
         />
-        <Title>Ammenities</Title>
+        <Title>Perk 3</Title>
         <Text>
-          Freshly laundered beach towels, Varying SPF sun screen lotions &
-          bluetooth surround system is all complimentary!
+        Lorum ipsem condo re vondo me ashmond Lorum ipsem condo re vondo me ashmond Lorum ipsem condo re vondo me ashmond Lorum ipsem condo re vondo me ashmond
         </Text>
       </Col>
       <Col last>
@@ -49,10 +46,9 @@ const Extras = () => {
           src={rewards}
           alt="Rewards at personal private adventure cruise llc"
         />
-        <Title>Rewards</Title>
+        <Title>Perk 4</Title>
         <Text>
-          For every refered guest who schedules & pays the deposit, You'll earn
-          a 100$ credit that never expires!
+        Lorum ipsem condo re vondo me ashmond Lorum ipsem condo re vondo me ashmond Lorum ipsem condo re vondo me ashmond Lorum ipsem condo re vondo me ashmond
         </Text>
       </Col>
     </Wrapper>

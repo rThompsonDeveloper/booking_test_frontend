@@ -8,15 +8,15 @@ import hero from "../../images/Brand/lake_Erie_Large.jpg";
 const Hero = () => {
   return (
     <Wrapper>
-      <Title>Personal Private Pleasure Adventure Cruises</Title>
+      <Title>Your business name here</Title>
       <SubTitle>
-        Experience a party on the water like never before. Your favorite music &
-        people combined with a cruise-like experience will create memories that
-        last forever
+        Lorum ipsem condo re vondo me ashmond Lorum ipsem condo re vondo me ashmond
+        Lorum ipsem condo re vondo me ashmond Lorum ipsem condo re vondo me ashmond
+        Lorum ipsem condo re vondo me ashmond
       </SubTitle>
       <Row>
         <Features href="/#features">View Features</Features>
-        <BookNow href="/#book-now">Book CRUISE</BookNow>
+        <BookNow href="/#book-now">Book Appointment</BookNow>
       </Row>
     </Wrapper>
   );

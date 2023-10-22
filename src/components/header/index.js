@@ -5,7 +5,7 @@ import { Link } from "react-router-dom";
 import styled from "styled-components";
 
 // Images
-import logo from "../../images/Brand/logo.jpg";
+import logo from "../../images/Brand/logo.png";
 import hamburger from "../../images/icons/Hamburger_icon.svg.png";
 
 // Colors
@@ -30,12 +30,12 @@ const Header = () => {
   return (
     <Container>
       <TopBar small={small}>
-        <Name href="/dashboard">Personal Private Pleasure Adventure Cruises</Name>
+        <Name href="/dashboard">Your Business Name Here</Name>
         <Row>
-          <Text left href="tel:8145044037">
-            814-504-4037
+          <Text left href="tel:999-999-9999">
+            999-999-9999
           </Text>
-          <Text href="mailto:pppacllc@yahoo.com">pppacllc@yahoo.com</Text>
+          <Text href="mailto:bookingtestex@gmail.com">bookingtestex@gmail.com</Text>
         </Row>
       </TopBar>
       <Wrapper small={small}>
